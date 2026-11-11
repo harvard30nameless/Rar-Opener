@@ -204,4 +204,4 @@ RAR Opener is offered as a complete free version with all features and updates i
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-10 20:12:35 UTC
+**Last updated:** 2026-11-11 00:59:40 UTC
